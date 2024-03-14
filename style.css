@@ -14,6 +14,10 @@ h2{
     font-weight: 700;
     color: hsl(220, 14%, 75%);
 }
+h2 a {
+    text-decoration: none;
+    color: hsl(220, 14%, 75%);
+}
 
 nav ul li{
     display: inline-block;
@@ -61,6 +65,7 @@ hr{
     padding: 20px;
     text-align: center;
     color: #000;
+    font-weight: 400;
 }
 .image-slide {
     width: 64%;
@@ -106,6 +111,10 @@ hr{
     padding: 20px;
     margin-top: 40px;
     background-color: #f4f4f4;
+}
+
+.About-us p {
+    text-align: center;
 }
 
 .Contact-us {
